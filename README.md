@@ -5,7 +5,7 @@ Interactive Excel dashboard analysing 1,000 customer records
 to identify key drivers of bike purchase behaviour.
 
 ### Excel :
-![Excel]([images/Bike Sales - Excel Dashboard Project.xlsx]([https://github.com/utkarsh2387/Sales-Dashboard/blob/main/images/Bike%20Sales%20-%20Excel%20Dashboard%20Project.xlsx](https://github.com/utkarsh2387/Sales-Dashboard/blob/main/images/Sales_Dashboard.png)))
+![Excel](https://github.com/utkarsh2387/Sales-Dashboard/blob/main/images/Sales_Dashboard.png)
 
 
 ## Key Steps in the Project
