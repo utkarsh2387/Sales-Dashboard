@@ -4,7 +4,7 @@
 Interactive Excel dashboard analysing 1,000 customer records 
 to identify key drivers of bike purchase behaviour.
 
-![Excel](Bike Sales - Excel Dashboard Project.xlsx)
+![Excel]('Bike Sales - Excel Dashboard Project.xlsx')
 
 ## Key Steps in the Project
 1. **Data Cleaning:** Identify and remove duplicates, standardize categorical data (e.g., marital status, gender).
