@@ -4,6 +4,14 @@
 Interactive Excel dashboard analysing 1,000 customer records 
 to identify key drivers of bike purchase behaviour.
 
+## Key Steps in the Project
+1. **Data Cleaning:** Identify and remove duplicates, standardize categorical data (e.g., marital status, gender).
+2. **Create Working Sheet:** Copy raw data to a working sheet for manipulation, keeping the original data intact.
+3. **Pivot Tables:** Utilize pivot tables to summarize and analyze data for visualization.
+4. **Visualizations:** Build visualizations using recommended charts to represent key insights, such as average income, commute distance, and age brackets.
+5. **Dashboard Creation:** Copy visualizations onto a dashboard sheet for a consolidated view.
+6. **Chart Customization:** Adjust chart titles, axis labels, and formatting for better clarity.
+
 ## Key Insights
 - Pacific region converts at 58.9% vs 43.3% in North America (15.5pp gap)
 - Car-free customers purchase at 61.1% vs 35.6% for 4-car households
