@@ -7,6 +7,9 @@ to identify key drivers of bike purchase behaviour.
 ### Excel :
 ![Excel](https://github.com/utkarsh2387/Sales-Dashboard/blob/main/images/Sales_Dashboard.png)
 
+### Looker :
+![Looker](https://github.com/utkarsh2387/Sales-Dashboard/blob/main/images/sales_dashboard_looker.png)
+
 
 ## Key Steps in the Project
 1. **Data Cleaning:** Identify and remove duplicates, standardize categorical data (e.g., marital status, gender).
