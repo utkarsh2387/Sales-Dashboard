@@ -1,7 +1,7 @@
 # 🚲 Bike Sales Excel Dashboard
 
 ## Project Overview
-Interactive Excel dashboard analysing 1,000 customer records 
+Interactive Excel & Looker Studio dashboard analysing 1,000 customer records 
 to identify key drivers of bike purchase behaviour.
 
 ### Excel :
@@ -26,7 +26,7 @@ to identify key drivers of bike purchase behaviour.
 - Short commute (0-1 mile) customers convert at 54.6% vs 29.7% for 10+ miles
 
 ## Tools Used
-Microsoft Excel — Pivot Tables, Slicers, Charts, Dashboard Design, Data Cleaning
+Microsoft Excel & Looker Studio — Pivot Tables, Slicers, Charts, Dashboard Design, Data Cleaning
 
 ## File
 Download the .xlsx file above to explore the interactive dashboard
