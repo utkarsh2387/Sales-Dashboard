@@ -31,7 +31,7 @@ Google Looker Studio — Calculated Fields, Interactive Filter Controls, Cloud-B
 
 ## File
 Download the .xlsx file above to explore the interactive dashboard
-View the live, filterable Looker Studio version here: [https://datastudio.google.com/s/pSS9uYGQvN0]
+View the live, filterable Looker Studio version here: https://datastudio.google.com/s/pSS9uYGQvN0
 
 ## Data Set
 Dataset Used - https://www.kaggle.com/datasets/heeraldedhia/bike-buyers
