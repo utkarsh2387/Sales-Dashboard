@@ -1,8 +1,7 @@
 # 🚲 Bike Sales Excel Dashboard
 
 ## Project Overview
-Interactive Excel & Looker Studio dashboard analysing 1,000 customer records 
-to identify key drivers of bike purchase behaviour.
+Interactive dashboard analysing 1,000 customer records to identify key drivers of bike purchase behaviour. Originally built in Excel, then rebuilt as a live, filterable dashboard in Google Looker Studio to demonstrate the same analysis in a cloud BI tool.
 
 ### Excel :
 ![Excel](https://github.com/utkarsh2387/Sales-Dashboard/blob/main/images/Sales_Dashboard.png)
@@ -26,7 +25,7 @@ to identify key drivers of bike purchase behaviour.
 - Short commute (0-1 mile) customers convert at 54.6% vs 29.7% for 10+ miles
 
 ## Tools Used
-Microsoft Excel — Pivot Tables, Slicers, Charts, Dashboard Design, Data Cleaning.
+Microsoft Excel — Pivot Tables, Slicers, Charts, Dashboard Design, Data Cleaning.\n
 Google Looker Studio — Calculated Fields, Interactive Filter Controls, Cloud-Based BI, Cross-Filtering, Live Data Connections.
 
 ## File
