@@ -25,7 +25,7 @@ Interactive dashboard analysing 1,000 customer records to identify key drivers o
 - Short commute (0-1 mile) customers convert at 54.6% vs 29.7% for 10+ miles
 
 ## Tools Used
-Microsoft Excel — Pivot Tables, Slicers, Charts, Dashboard Design, Data Cleaning.\n
+Microsoft Excel — Pivot Tables, Slicers, Charts, Dashboard Design, Data Cleaning.<br>
 Google Looker Studio — Calculated Fields, Interactive Filter Controls, Cloud-Based BI, Cross-Filtering, Live Data Connections.
 
 ## File
