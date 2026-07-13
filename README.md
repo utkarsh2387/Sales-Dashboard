@@ -26,8 +26,8 @@ to identify key drivers of bike purchase behaviour.
 - Short commute (0-1 mile) customers convert at 54.6% vs 29.7% for 10+ miles
 
 ## Tools Used
-Microsoft Excel — Pivot Tables, Slicers, Charts, Dashboard Design, Data Cleaning
-Google Looker Studio — Calculated Fields, Interactive Filter Controls, Cloud-Based BI, Cross-Filtering, Live Data Connections
+Microsoft Excel — Pivot Tables, Slicers, Charts, Dashboard Design, Data Cleaning.
+Google Looker Studio — Calculated Fields, Interactive Filter Controls, Cloud-Based BI, Cross-Filtering, Live Data Connections.
 
 ## File
 Download the .xlsx file above to explore the interactive dashboard
